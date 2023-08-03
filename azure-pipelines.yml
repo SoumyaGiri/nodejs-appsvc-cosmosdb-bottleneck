@@ -14,8 +14,8 @@ variables:
   serviceConnection: 'LoadTest'
   azureSubscriptionId: '3640c720-aff2-4ae3-98bc-d59177f6f48d'
   loadTestResource: 'LoadTestApp'
-  loadTestResourceGroup: 'loadtestapp-rg'
-  location: 'EAST US'
+  loadTestResourceGroup: 'cloud-shell-storage-centralindia'
+  location: 'EAST US 2'
 
 
 stages:
