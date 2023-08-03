@@ -15,7 +15,7 @@ variables:
   azureSubscriptionId: '3640c720-aff2-4ae3-98bc-d59177f6f48d'
   loadTestResource: '<Name of your load test resource>'
   loadTestResourceGroup: '<Name of your load test resource group>'
-  location: 'EAST US'
+  location: 'EAST US 2'
 
 
 stages:
