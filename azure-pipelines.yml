@@ -13,7 +13,7 @@ variables:
   webAppName: 'loadtestapp'
   serviceConnection: 'LoadTest'
   azureSubscriptionId: '3640c720-aff2-4ae3-98bc-d59177f6f48d'
-  loadTestResource: 'loadtestapp-rg'
+  loadTestResource: 'LoadTestApp'
   loadTestResourceGroup: 'loadtestapp-rg'
   location: 'EAST US'
 
